@@ -1,4 +1,5 @@
 # Database
+
 Database course - Spring 2022
 -----------------------------
 In this course we learned about designing databases and SQL commands, and we implemented databases and manipulated its content using SQL commands.
